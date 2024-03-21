@@ -7,7 +7,7 @@ To develop a Django application to store and retrieve data from a Football Playe
 ## Entity Relationship Diagram
 
 Include your ER diagram here
-![image](https://github.com/Murali-Krishna0/ORM/assets/149054535/d524f8e1-4cdf-43e2-bc56-081e46c208df)
+![Screenshot 2024-03-21 083207](https://github.com/Balunithu/ORM/assets/161273477/55c78b24-596e-44e6-84db-406a4113918e)
 
 
 ## DESIGN STEPS
